@@ -5,7 +5,7 @@ Well, this is my first contribution to Github. This one's pretty simple.
 
 Constructor:
 
-Simplefiler(name-of-the-file, format of the file)
+Simplefiler(name-of-the-file, format-of-the-file)
   
   Once you create it, it'll automatically start creating a file. This file will be located on Android root.
   
