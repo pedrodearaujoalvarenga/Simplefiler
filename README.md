@@ -1,7 +1,6 @@
 # Simplefiler
-A simple class useful for easy-to-use file exporting info on Android App Studio.
-
-Well, this is my first contribution to Github. This one's pretty simple.
+An easy-to-use class for file exporting on Android App Studio.
+This one's pretty simple.
 
 ## Constructor:
 
